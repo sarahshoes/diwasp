@@ -1,3 +1,5 @@
+This branch contains DIWASP code used for Partrac Processing - allows for checking for any updates that need to be applied from original branch.
+
 # diwasp
 DIWASP: DIrectional WAve SPectrum analysis
 Version 1.4
